@@ -9,9 +9,6 @@
 # production
 /build
 
-# api key
-config.js
-
 # misc
 .prettierrc
 .DS_Store
