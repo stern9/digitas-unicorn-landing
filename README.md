@@ -12,7 +12,7 @@
     And last but not least taking into account those in need - linking to a donation site - One Warm Coat.
     <br />
     <br />
-    <a href="https://nextjs-code-snippets-fsypzuokj.vercel.app/" target="_blank">View Demo »</a>
+    <a href="https://digitas-unicorn-landing.netlify.app/" target="_blank">View Demo »</a>
   </p>
 </p>
 
